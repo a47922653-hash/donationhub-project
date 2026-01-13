@@ -30,7 +30,8 @@ donationhub-project/
 │   ├── index.html
 │   ├── styles.css
 │   ├── config.js
-│   └── app.js
+│   ├── app.js
+│   └── landing.js
 ├── screenshots/
 ├── docs/
 │   └── laporan.md
