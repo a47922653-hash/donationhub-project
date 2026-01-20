@@ -35,7 +35,8 @@ Tujuan dari proyek akhir ini adalah untuk merancang dan mengimplementasikan sebu
 2. Mengimplementasikan mekanisme kriptografi berupa tanda tangan digital dan autentikasi berbasis wallet (MetaMask) sebagai bentuk otorisasi transaksi yang aman.
 3. Menyediakan sistem pencatatan donasi yang bersifat on-chain sehingga seluruh transaksi dapat diverifikasi secara publik dan tidak dapat dimodifikasi.
 4. Mengintegrasikan antarmuka website sebagai media interaksi pengguna yang menyederhanakan penggunaan teknologi blockchain tanpa mengurangi aspek keamanan.
-5. Mengevaluasi peran teknologi blockchain dan kriptografi dalam meningkatkan kepercayaan, transparansi, serta keamanan pada sistem donasi digital.
+5. Mengevaluasi peran teknologi blockchain dan kriptografi dalam meningkatkan kepercayaan, transparansi, serta keamanan pada sistem donasi digital.                
+
 Dengan tercapainya tujuan tersebut, proyek TinyCoin Donation diharapkan dapat menjadi studi kasus penerapan kriptografi dalam sistem nyata serta menunjukkan relevansi blockchain sebagai solusi teknologi pada sistem sosial berbasis kepercayaan.
 
 ---
